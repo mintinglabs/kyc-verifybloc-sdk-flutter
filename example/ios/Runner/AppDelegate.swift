@@ -1,5 +1,6 @@
 import UIKit
 import Flutter
+import VerifyBloc
 
 @UIApplicationMain
 @objc class AppDelegate: FlutterAppDelegate {

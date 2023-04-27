@@ -219,9 +219,11 @@ packages:
   verifybloc_flutter_platform_interface:
     dependency: transitive
     description:
-      path: "../../verifybloc_flutter_platform_interface"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: d9f5c4af3dc48a4de7899fec7abe27ae6c29437e
+      url: "https://github.com/mintinglabs/verifybloc_flutter_platform_interface.git"
+    source: git
     version: "0.0.1"
 sdks:
   dart: ">=2.19.6 <3.0.0"
