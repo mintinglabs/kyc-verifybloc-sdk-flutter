@@ -20,7 +20,7 @@ dev_dependencies:
     sdk: flutter
   ml_flutter_lints:
     git: git@github.com:mintinglabs/ml_flutter_lints.git
-  pigeon: ^9.2.5
+  pigeon: ^10.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
 
   Brightness _brightness = Brightness.dark;
   bool _isBtnGradient = false;
-  VerifyblocIdentityType _identityType = VerifyblocIdentityType.person;
+  VerifyblocIdentityType _identityType = VerifyblocIdentityType.personal;
 
   Color get _themeColor => _themeColorController.text.toColor;
   Color get _btnColor => _btnColorController.text.toColor;
@@ -277,11 +277,11 @@ class _HomePageState extends State<HomePage> {
         crossAxisAlignment: WrapCrossAlignment.center,
         children: <Widget>[
           Radio<VerifyblocIdentityType>(
-            value: VerifyblocIdentityType.person,
+            value: VerifyblocIdentityType.personal,
             groupValue: _identityType,
             onChanged: _onIdentityTypeChanged,
           ),
-          const Text('Person'),
+          const Text('Personal'),
           Radio<VerifyblocIdentityType>(
             value: VerifyblocIdentityType.corporate,
             groupValue: _identityType,

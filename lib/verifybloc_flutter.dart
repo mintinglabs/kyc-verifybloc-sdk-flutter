@@ -5,7 +5,8 @@ import 'src/messages.g.dart';
 
 export 'package:verifybloc_flutter_platform_interface/verifybloc_flutter_platform_interface.dart'
     show VerifyblocEnv, VerifyblocFlutterPlatform, VerifyblocIdentityType;
-export 'src/messages.g.dart';
+export 'src/messages.g.dart'
+    show VerifyblocButtonTheme, VerifyblocStyle, VerifyblocTheme;
 
 class VerifyblocFlutter extends VerifyblocFlutterPlatform {
   factory VerifyblocFlutter() {
@@ -39,7 +40,7 @@ class VerifyblocFlutter extends VerifyblocFlutterPlatform {
   @override
   Future<void> startVerification({
     required String userId,
-    VerifyblocIdentityType identityType = VerifyblocIdentityType.person,
+    VerifyblocIdentityType identityType = VerifyblocIdentityType.personal,
   }) {
     assert(userId.isNotEmpty);
 
