@@ -40,9 +40,11 @@ flutter:
   plugin:
     platforms:
       android:
+        dartPluginClass: VerifyblocFlutter
         package: com.mintinglabs.verifybloc_flutter
         pluginClass: VerifyblocFlutterPlugin
       ios:
+        dartPluginClass: VerifyblocFlutter
         pluginClass: VerifyblocFlutterPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
