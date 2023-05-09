@@ -57,6 +57,8 @@ class VerifyblocFlutter extends VerifyblocFlutterPlatform {
   }
 
   Future<void> setTheme(VerifyblocTheme theme) {
+    // TODO(Hito): Avoid cast error when exporting to Swift.
+    theme.buttonStyle ??= VerifyblocButtonTheme();
     return _api.setTheme(theme);
   }
 }
