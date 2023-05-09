@@ -34,15 +34,26 @@ public class VerifyblocFlutterPlugin: NSObject, FlutterPlugin, VerifyblocFlutter
     
     func setTheme(theme: VerifyblocTheme) throws {
         VerifyBlocManager.changeStyle(ThemeUI(rawValue: theme.style.rawValue) ?? .light)
+        if let themeColor = theme.mainColor {
+            VerifyBlocManager.shared.themeColor = UIColorInt32(value: UInt32(themeColor))
+        }
         
-//        if let mainColor = UIColor( theme.mainColor) {
-//            VerifyBlocManager.shared.themeColor = mainColor
-//        }
-//        let bnSetting = ButtonSetting(bgColor: bgColor, circle: CGFloat(corner), color: titleColor)
-//        VerifyBlocManager.shared.buttonSetting = bnSetting
+        var btnBgColor, btnTextColor: UIColor?
+        if let btnBgColorInt64 = theme.buttonStyle?.color {
+            btnBgColor = UIColorInt32(value: UInt32(btnBgColorInt64))
+        }
+        if let btnTextColorInt64 = theme.buttonStyle?.textColor {
+            btnTextColor = UIColorInt32(value: UInt32(btnTextColorInt64))
+        }
+        let bnSetting = ButtonSetting(
+            bgColor: btnBgColor,
+            circle: CGFloat(theme.buttonStyle?.borderRadius ?? 0),
+            color: btnTextColor
+        )
+        VerifyBlocManager.shared.buttonSetting = bnSetting
     }
     
-    func viewControllerWithWindow(window: UIWindow?) -> UIViewController {
+    private func viewControllerWithWindow(window: UIWindow?) -> UIViewController {
         var windowToUse = window
         if (windowToUse == nil) {
             for window in UIApplication.shared.windows {
@@ -56,6 +67,20 @@ public class VerifyblocFlutterPlugin: NSObject, FlutterPlugin, VerifyblocFlutter
             topController = controller
         }
         return topController!
+    }
+    
+    /// 设置颜色与透明度
+    private func UIColorInt32(value:UInt32) -> UIColor
+    {
+        let int = value
+        let a, r, g, b: UInt32
+        (a, r, g, b) = (int >> 24, int >> 16 & 0xFF, int >> 8 & 0xFF, int & 0xFF)
+        return UIColor(
+            red: CGFloat(r) / 255,
+            green: CGFloat(g) / 255,
+            blue: CGFloat(b) / 255,
+            alpha: CGFloat(a) / 255
+        )
     }
     
 }
