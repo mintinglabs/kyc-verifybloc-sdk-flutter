@@ -24,6 +24,6 @@ A new Flutter project.
   # s.static_framework = true
   # s.dependency 'VerifyBlocSDK', '~> 0.2.0'
 
-  s.vendored_frameworks = ['VerifyBlocSDK/Frameworks/VerifyBloc.framework']
+  s.vendored_frameworks = ['VerifyBlocSDK/Frameworks/VerifyBloc.xcframework']
   s.resource = 'VerifyBlocSDK/Bundles/VerifyBloc.bundle'
 end
