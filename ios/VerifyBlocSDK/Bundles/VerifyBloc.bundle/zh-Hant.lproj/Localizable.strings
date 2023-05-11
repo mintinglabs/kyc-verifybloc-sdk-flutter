@@ -83,7 +83,7 @@
 "kycVerifyStatusUnderReview" = "審核中";
 "kycVerifyStatusRejected" = "被拒絕";
 "kycVerifyStatusSubmitAgain" = "再次提交";
-"kycVerifyStatusUnderReviewTip" = "我們將會通知您一旦您的驗證完成。";
+"kycVerifyStatusUnderReviewTip" = "一旦您的驗證完成我們將會通知您。";
 "kycVerifyStatusRejectResubmissionTip" = "請重新提交您的驗證申請。";
 "kycVerifyStatusRejectFinalTip1" = "我們無法驗證您的個人資料。請聯繫";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
