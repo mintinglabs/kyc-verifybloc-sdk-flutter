@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "이메일\n이 이메일 주소에서 확인 코드를 받을 수 있어야합니다.";
 "kycCorporateDetailWebsiteTitle" = "웹 사이트（선택 사항）";
 "kycCorporateCheckEmailTitle" = "이메일을 확인하세요";
-"kycCorporateCheckEmailSubtitle" = "%1$s이메일 주소로 인증 코드를 보내드립니다. 귀하의 법적 조직명 및 주소 또는 전화 번호가 포함된 문서를 업로드하십시오.";
+"kycCorporateCheckEmailSubtitle" = "%@이메일 주소로 인증 코드를 보내드립니다. 귀하의 법적 조직명 및 주소 또는 전화 번호가 포함된 문서를 업로드하십시오.";
 "kycCorporateCheckCodeName" = "확인 코드";
 "kycCorporateCheckCodeResend" = "코드 다시 보내기";
 "kycCorporateCheckCodeInvalid" = "이 코드는 유효하지 않습니다";

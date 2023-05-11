@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "Email\nAnda harus dapat menerima kode konfirmasi di email ini.";
 "kycCorporateDetailWebsiteTitle" = "Situs Web (opsional)";
 "kycCorporateCheckEmailTitle" = "Periksa email Anda";
-"kycCorporateCheckEmailSubtitle" = "Kami akan mengirimkan kode konfirmasi ke email %1$s. Unggah dokumen yang memiliki nama dan alamat organisasi hukum atau nomor telepon Anda.";
+"kycCorporateCheckEmailSubtitle" = "Kami akan mengirimkan kode konfirmasi ke email %@. Unggah dokumen yang memiliki nama dan alamat organisasi hukum atau nomor telepon Anda.";
 "kycCorporateCheckCodeName" = "Kode konfirmasi";
 "kycCorporateCheckCodeResend" = "Kirim Ulang Kode";
 "kycCorporateCheckCodeInvalid" = "Kode ini tidak valid";

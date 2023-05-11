@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "E-mel\nAnda mesti dapat menerima kod pengesahan di e-mel ini.";
 "kycCorporateDetailWebsiteTitle" = "Laman web (pilihan)";
 "kycCorporateCheckEmailTitle" = "Periksa emel anda.";
-"kycCorporateCheckEmailSubtitle" = "Kami akan menghantar kod pengesahan ke alamat emel %1$s. Muat naik dokumen yang mempunyai nama dan alamat organisasi undang-undang atau nombor telefon anda.";
+"kycCorporateCheckEmailSubtitle" = "Kami akan menghantar kod pengesahan ke alamat emel %@. Muat naik dokumen yang mempunyai nama dan alamat organisasi undang-undang atau nombor telefon anda.";
 "kycCorporateCheckCodeName" = "Kod pengesahan";
 "kycCorporateCheckCodeResend" = "Hantar Semula Kod";
 "kycCorporateCheckCodeInvalid" = "Kod ini tidak sah";

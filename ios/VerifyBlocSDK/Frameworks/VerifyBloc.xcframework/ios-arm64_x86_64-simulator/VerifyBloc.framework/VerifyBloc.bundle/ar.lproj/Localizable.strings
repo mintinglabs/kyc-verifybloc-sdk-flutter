@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "البريد الإلكتروني\n يجب أن تكون قادرًا على تلقي رمز التأكيد على هذا البريد الإلكتروني.";
 "kycCorporateDetailWebsiteTitle" = "موقع ويب (اختياري)";
 "kycCorporateCheckEmailTitle" = "تحقق من بريدك الإلكتروني";
-"kycCorporateCheckEmailSubtitle" = "سنرسل رمز تأكيد إلى بريد إلكتروني %1$s. قم بتحميل المستندات التي تحتوي على اسم وعنوان منظمتك القانوني أو رقم الهاتف.\n";
+"kycCorporateCheckEmailSubtitle" = "سنرسل رمز تأكيد إلى بريد إلكتروني %@. قم بتحميل المستندات التي تحتوي على اسم وعنوان منظمتك القانوني أو رقم الهاتف.";
 "kycCorporateCheckCodeName" = "رمز التأكيد";
 "kycCorporateCheckCodeResend" = "إعادة إرسال الرمز";
 "kycCorporateCheckCodeInvalid" = "هذا الكود غير صالح";

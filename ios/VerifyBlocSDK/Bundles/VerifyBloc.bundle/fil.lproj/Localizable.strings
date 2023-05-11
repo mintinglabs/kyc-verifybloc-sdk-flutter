@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "Email\nDapat mong matanggap ang confirmation code sa email na ito.";
 "kycCorporateDetailWebsiteTitle" = "Website (opsyonal)";
 "kycCorporateCheckEmailTitle" = "Suriin ang iyong email";
-"kycCorporateCheckEmailSubtitle" = "Ipadadala namin ang isang confirmation code sa isang email na %1$s. Mag-upload ng mga dokumentong mayroong iyong legal na pangalan ng organisasyon at address o numero ng telepono.";
+"kycCorporateCheckEmailSubtitle" = "Ipadadala namin ang isang confirmation code sa isang email na %@. Mag-upload ng mga dokumentong mayroong iyong legal na pangalan ng organisasyon at address o numero ng telepono.";
 "kycCorporateCheckCodeName" = "Kumpirmasyon code";
 "kycCorporateCheckCodeResend" = "Ipadala muli ang Code";
 "kycCorporateCheckCodeInvalid" = "Hindi wastong code";

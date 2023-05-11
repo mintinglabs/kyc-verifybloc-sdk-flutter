@@ -83,7 +83,7 @@
 "kycVerifyStatusUnderReview" = "审核中";
 "kycVerifyStatusRejected" = "被拒绝";
 "kycVerifyStatusSubmitAgain" = "再次提交";
-"kycVerifyStatusUnderReviewTip" = "我们将会通知您一旦您的验证完成。";
+"kycVerifyStatusUnderReviewTip" = "一旦您的验证完成我们将会通知您。";
 "kycVerifyStatusRejectResubmissionTip" = "请重新提交您的验证申请。";
 "kycVerifyStatusRejectFinalTip1" = "我们无法验证您的个人资料。请联系";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "电子邮件\n您必须能够在此电子邮件地址接收确认码。";
 "kycCorporateDetailWebsiteTitle" = "网站（可选）\n";
 "kycCorporateCheckEmailTitle" = "请检查您的电子邮件";
-"kycCorporateCheckEmailSubtitle" = "我们会寄送一封确认码到 %1$s 电子邮件信箱。请上传拥有您的合法组织名称和地址或电话号码的文件。";
+"kycCorporateCheckEmailSubtitle" = "我们会寄送一封确认码到 %@ 电子邮件信箱。请上传拥有您的合法组织名称和地址或电话号码的文件。";
 "kycCorporateCheckCodeName" = "确认码";
 "kycCorporateCheckCodeResend" = "重新发送验证码";
 "kycCorporateCheckCodeInvalid" = "此代码无效";
@@ -138,7 +138,7 @@
 "kycCorporateDocumentUploadDetailVerifyLegalDescSpan" = "已接受的文件";
 "kycCorporateDocumentUploadSelect" = "选择要上传的 .jpg、.png 或 .pdf 文件";
 "kycCorporateDocumentUploadDetailVerifyAddress" = "验证地址或电话号码";
-"kycCorporateDocumentUploadDetailVerifyAddressDesc" = "接受的文件必须包含地址或电话号码";
+"kycCorporateDocumentUploadDetailVerifyAddressDesc" = "已接受的文件必须包含地址或电话号码";
 "kycCorporateDocumentUploadHowUseInformation" = "我们如何使用您的信息";
 "kycCorporateDocumentUploadSelectMenuPhotoLibrary" = "照片库";
 "kycCorporateDocumentUploadSelectMenuTakePhoto" = "拍照";

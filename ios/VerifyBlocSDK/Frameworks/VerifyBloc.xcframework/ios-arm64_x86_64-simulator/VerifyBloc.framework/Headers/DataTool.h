@@ -10,10 +10,10 @@
 
 @interface DataTool : NSObject
 
-+ (nonnull NSData*)SwiftyRSASHA1:(NSData *)data;
-+ (nonnull NSData*)SwiftyRSASHA224:(NSData *)data;
-+ (nonnull NSData*)SwiftyRSASHA256:(NSData *)data;
-+ (nonnull NSData*)SwiftyRSASHA384:(NSData *)data;
-+ (nonnull NSData*)SwiftyRSASHA512:(NSData *)data;
++ (nonnull NSData*)SwiftyRSASHA1:(NSData * _Nullable)data;
++ (nonnull NSData*)SwiftyRSASHA224:(NSData * _Nullable)data;
++ (nonnull NSData*)SwiftyRSASHA256:(NSData * _Nullable)data;
++ (nonnull NSData*)SwiftyRSASHA384:(NSData * _Nullable)data;
++ (nonnull NSData*)SwiftyRSASHA512:(NSData * _Nullable)data;
 
 @end

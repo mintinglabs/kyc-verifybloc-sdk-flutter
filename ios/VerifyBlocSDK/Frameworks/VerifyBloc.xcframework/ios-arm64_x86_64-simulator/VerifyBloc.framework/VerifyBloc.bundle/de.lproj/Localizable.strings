@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "E-Mail\nSie müssen in der Lage sein, einen Bestätigungscode unter dieser E-Mail-Adresse zu empfangen.";
 "kycCorporateDetailWebsiteTitle" = "Website (optional)";
 "kycCorporateCheckEmailTitle" = "Überprüfen Sie Ihre E-Mail";
-"kycCorporateCheckEmailSubtitle" = "Wir werden einen Bestätigungscode an eine E-Mail-Adresse %1$s senden. Laden Sie Dokumente hoch, die Ihren rechtlichen Organisationsnamen und -adresse oder Telefonnummer enthalten.";
+"kycCorporateCheckEmailSubtitle" = "Wir werden einen Bestätigungscode an eine E-Mail-Adresse %@ senden. Laden Sie Dokumente hoch, die Ihren rechtlichen Organisationsnamen und -adresse oder Telefonnummer enthalten.";
 "kycCorporateCheckCodeName" = "Bestätigungscode";
 "kycCorporateCheckCodeResend" = "Code erneut senden";
 "kycCorporateCheckCodeInvalid" = "Dieser Code ist ungültig";

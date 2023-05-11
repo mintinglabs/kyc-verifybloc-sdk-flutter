@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "อีเมล\nคุณต้องสามารถรับรหัสยืนยันที่อีเมลนี้ได้";
 "kycCorporateDetailWebsiteTitle" = "เว็บไซต์ (ไม่บังคับ)";
 "kycCorporateCheckEmailTitle" = "ตรวจสอบอีเมลของคุณ";
-"kycCorporateCheckEmailSubtitle" = "เราจะส่งรหัสยืนยันไปยังอีเมล%1$s .กรุณาอัพโหลดเอกสารที่มีชื่อและที่อยู่ขององค์กรที่ถูกต้องหรือหมายเลขโทรศัพท์";
+"kycCorporateCheckEmailSubtitle" = "เราจะส่งรหัสยืนยันไปยังอีเมล%@ .กรุณาอัพโหลดเอกสารที่มีชื่อและที่อยู่ขององค์กรที่ถูกต้องหรือหมายเลขโทรศัพท์";
 "kycCorporateCheckCodeName" = "รหัสยืนยัน";
 "kycCorporateCheckCodeResend" = "ส่งรหัสอีกครั้ง";
 "kycCorporateCheckCodeInvalid" = "รหัสนี้ไม่ถูกต้อง";

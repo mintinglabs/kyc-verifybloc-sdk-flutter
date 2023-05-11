@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "電子メール\nこのメールアドレスで確認コードを受け取ることができる必要があります。";
 "kycCorporateDetailWebsiteTitle" = "ウェブサイト（オプション）";
 "kycCorporateCheckEmailTitle" = "メールを確認してください";
-"kycCorporateCheckEmailSubtitle" = "%1$s 宛に確認コードをメールでお送りします。法人名と住所または電話番号が記載された文書をアップロードしてください。";
+"kycCorporateCheckEmailSubtitle" = "%@ 宛に確認コードをメールでお送りします。法人名と住所または電話番号が記載された文書をアップロードしてください。";
 "kycCorporateCheckCodeName" = "確認コード";
 "kycCorporateCheckCodeResend" = "コードを再送信する";
 "kycCorporateCheckCodeInvalid" = "このコードは無効です";

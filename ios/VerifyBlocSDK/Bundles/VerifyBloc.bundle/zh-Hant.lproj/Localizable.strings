@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "電子郵件\n您必須能夠在此電子郵件地址接收確認碼。";
 "kycCorporateDetailWebsiteTitle" = "網站（可選）";
 "kycCorporateCheckEmailTitle" = "請檢查您的電子郵件";
-"kycCorporateCheckEmailSubtitle" = "我們會寄送一封確認碼到 %1$s 電子郵件信箱。請上傳擁有您的合法組織名稱和地址或電話號碼的文件。";
+"kycCorporateCheckEmailSubtitle" = "我們會寄送一封確認碼到 %@ 電子郵件信箱。請上傳擁有您的合法組織名稱和地址或電話號碼的文件。";
 "kycCorporateCheckCodeName" = "確認碼";
 "kycCorporateCheckCodeResend" = "重新發送驗證碼";
 "kycCorporateCheckCodeInvalid" = "此代碼無效\n";
@@ -138,7 +138,7 @@
 "kycCorporateDocumentUploadDetailVerifyLegalDescSpan" = "已接受的文件";
 "kycCorporateDocumentUploadSelect" = "選擇要上傳的 .jpg、.png 或 .pdf 文件";
 "kycCorporateDocumentUploadDetailVerifyAddress" = "驗證地址或電話號碼";
-"kycCorporateDocumentUploadDetailVerifyAddressDesc" = "接受的文件必須包含地址或電話號碼";
+"kycCorporateDocumentUploadDetailVerifyAddressDesc" = "已接受的文件必須包含地址或電話號碼";
 "kycCorporateDocumentUploadHowUseInformation" = "我們如何使用您的資訊";
 "kycCorporateDocumentUploadSelectMenuPhotoLibrary" = "照片庫";
 "kycCorporateDocumentUploadSelectMenuTakePhoto" = "拍照";

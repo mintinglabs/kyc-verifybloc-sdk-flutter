@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "E-posta\nBu e-postada bir onay kodu alabilmeniz gerekiyor.";
 "kycCorporateDetailWebsiteTitle" = "Web sitesi (isteğe bağlı)";
 "kycCorporateCheckEmailTitle" = "E-postanızı kontrol edin";
-"kycCorporateCheckEmailSubtitle" = "%1$s bir e-posta adresine onay kodu göndereceğiz. Yasal kuruluş adınızı ve adresinizi veya telefon numaranızı içeren belgeleri yükleyin.";
+"kycCorporateCheckEmailSubtitle" = "%@ bir e-posta adresine onay kodu göndereceğiz. Yasal kuruluş adınızı ve adresinizi veya telefon numaranızı içeren belgeleri yükleyin.";
 "kycCorporateCheckCodeName" = "Onay kodu";
 "kycCorporateCheckCodeResend" = "Kodu yeniden gönder";
 "kycCorporateCheckCodeInvalid" = "Bu kod geçersiz";

@@ -3556,126 +3556,126 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7000,
+      "offset": 6536,
       "length": 22,
       "value": "\"submission_requested\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7051,
+      "offset": 6587,
       "length": 18,
       "value": "\"auto_kyc_pending\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7101,
+      "offset": 6637,
       "length": 21,
       "value": "\"auto_kyc_processing\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7142,
+      "offset": 6678,
       "length": 9,
       "value": "\"pending\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7174,
+      "offset": 6710,
       "length": 12,
       "value": "\"processing\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7207,
+      "offset": 6743,
       "length": 10,
       "value": "\"approved\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7238,
+      "offset": 6774,
       "length": 10,
       "value": "\"rejected\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7275,
+      "offset": 6811,
       "length": 16,
       "value": "\"require_action\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7326,
+      "offset": 6862,
       "length": 24,
       "value": "\"resubmission_requested\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7000,
+      "offset": 6536,
       "length": 22,
       "value": "\"submission_requested\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7051,
+      "offset": 6587,
       "length": 18,
       "value": "\"auto_kyc_pending\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7101,
+      "offset": 6637,
       "length": 21,
       "value": "\"auto_kyc_processing\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7142,
+      "offset": 6678,
       "length": 9,
       "value": "\"pending\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7174,
+      "offset": 6710,
       "length": 12,
       "value": "\"processing\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7207,
+      "offset": 6743,
       "length": 10,
       "value": "\"approved\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7238,
+      "offset": 6774,
       "length": 10,
       "value": "\"rejected\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7275,
+      "offset": 6811,
       "length": 16,
       "value": "\"require_action\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/HttpModel.swift",
       "kind": "StringLiteral",
-      "offset": 7326,
+      "offset": 6862,
       "length": 24,
       "value": "\"resubmission_requested\""
     },
@@ -4613,42 +4613,28 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 2408,
-      "length": 22,
-      "value": "\"\/v1\/internal\/company\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 2433,
-      "length": 8,
-      "value": "\"userId\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 3096,
+      "offset": 2787,
       "length": 26,
       "value": "\"\/v1\/internal\/verify-code\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 3483,
+      "offset": 3174,
       "length": 32,
       "value": "\"\/v1\/internal\/verify-code\/check\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 4320,
-      "length": 29,
-      "value": "\"\/v1\/internal\/company\/submit\""
+      "offset": 4013,
+      "length": 32,
+      "value": "\"\/v1\/internal\/corporates\/submit\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 4604,
+      "offset": 4300,
       "length": 13,
       "value": "\"enter-fetch\""
     },
@@ -7973,140 +7959,140 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "Array",
-      "offset": 6374,
+      "offset": 6535,
       "length": 26,
       "value": "[\"support@verifybloc.com\"]"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6478,
+      "offset": 6639,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6586,
+      "offset": 6747,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6753,
+      "offset": 6914,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6983,
+      "offset": 7144,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7169,
+      "offset": 7330,
       "length": 3,
       "value": "-41"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7175,
+      "offset": 7336,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7191,
+      "offset": 7352,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7273,
+      "offset": 7434,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7357,
+      "offset": 7518,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7421,
+      "offset": 7582,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7436,
+      "offset": 7597,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "StringLiteral",
-      "offset": 7488,
+      "offset": 7649,
       "length": 10,
       "value": "\"power_by\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7620,
+      "offset": 7781,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7711,
+      "offset": 7872,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7803,
+      "offset": 7964,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7817,
+      "offset": 7978,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7942,
+      "offset": 8103,
       "length": 5,
       "value": "80027"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "StringLiteral",
-      "offset": 8127,
+      "offset": 8288,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/VerifyBlocVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8397,
+      "offset": 8558,
       "length": 4,
       "value": "true"
     },
@@ -9163,42 +9149,42 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/SwiftyRSA.swift",
       "kind": "IntegerLiteral",
-      "offset": 6650,
+      "offset": 6670,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
-      "offset": 6903,
+      "offset": 6923,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
-      "offset": 7752,
+      "offset": 7772,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
-      "offset": 8458,
+      "offset": 8478,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
-      "offset": 11197,
+      "offset": 11217,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Tool\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
-      "offset": 11236,
+      "offset": 11256,
       "length": 4,
       "value": "true"
     },
@@ -9982,91 +9968,91 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5216,
+      "offset": 5218,
       "length": 21,
       "value": "\"{Organisation name}\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5527,
+      "offset": 5529,
       "length": 5,
       "value": "\"· \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5546,
+      "offset": 5548,
       "length": 4,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5564,
+      "offset": 5566,
       "length": 4,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5584,
+      "offset": 5586,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5656,
+      "offset": 5658,
       "length": 5,
       "value": "\"· \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5664,
+      "offset": 5666,
       "length": 24,
       "value": "\"{Organisation address}\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5788,
+      "offset": 5790,
       "length": 5,
       "value": "\"· \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5841,
+      "offset": 5843,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5895,
+      "offset": 5897,
       "length": 5,
       "value": "\"· \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5903,
+      "offset": 5905,
       "length": 29,
       "value": "\"{Organisation phone number}\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5966,
+      "offset": 5968,
       "length": 5,
       "value": "\"· \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/OrganisationDetailsHeadView.swift",
       "kind": "StringLiteral",
-      "offset": 5997,
+      "offset": 5999,
       "length": 22,
       "value": "\"{Organisation email}\""
     },
@@ -10997,21 +10983,21 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/CheckEmailVC.swift",
       "kind": "StringLiteral",
-      "offset": 7673,
-      "length": 19,
-      "value": "\"1750019481@qq.com\""
+      "offset": 7719,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/CheckEmailVC.swift",
       "kind": "StringLiteral",
-      "offset": 7909,
+      "offset": 7938,
       "length": 15,
       "value": "\"EmailCodeCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/CheckEmailVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8506,
+      "offset": 8535,
       "length": 2,
       "value": "76"
     },
@@ -11627,112 +11613,119 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1291,
+      "offset": 1288,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1342,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1355,
+      "offset": 1344,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1360,
+      "offset": 1349,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1372,
+      "offset": 1361,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1376,
+      "offset": 1365,
       "length": 3,
       "value": "0xF"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1372,
+      "length": 2,
+      "value": "17"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
       "offset": 1383,
-      "length": 2,
-      "value": "17"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1394,
       "length": 3,
       "value": "0xF"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1401,
+      "offset": 1390,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1422,
+      "offset": 1411,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1473,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1485,
+      "offset": 1466,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1496,
+      "offset": 1477,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1500,
+      "offset": 1481,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1512,
+      "offset": 1493,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1535,
+      "offset": 1516,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1572,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1577,
+      "length": 4,
+      "value": "0xFF"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1590,
       "length": 1,
       "value": "8"
     },
@@ -11740,62 +11733,34 @@
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
       "offset": 1594,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1605,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1610,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1623,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1627,
+      "offset": 1606,
       "length": 4,
       "value": "0xFF"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1639,
-      "length": 4,
-      "value": "0xFF"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1758,
+      "offset": 1717,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1783,
+      "offset": 1742,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/UIColor+Extension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1807,
+      "offset": 1766,
       "length": 3,
       "value": "255"
     },
@@ -11875,6 +11840,27 @@
       "offset": 1539,
       "length": 10,
       "value": "\"%4.2f %@\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/String+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1705,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/String+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 1754,
+      "length": 50,
+      "value": "\"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/String+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 1862,
+      "length": 17,
+      "value": "\"SELF MATCHES %@\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Common\/Bundle+Extension.swift",
@@ -23316,400 +23302,400 @@
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
-      "kind": "StringLiteral",
-      "offset": 1513,
-      "length": 16,
-      "value": "\"Street address\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2132,
+      "offset": 2149,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2376,
+      "offset": 2393,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2392,
+      "offset": 2409,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2473,
+      "offset": 2490,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2488,
+      "offset": 2505,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2571,
+      "offset": 2588,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2587,
+      "offset": 2604,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2651,
+      "offset": 2668,
       "length": 2,
       "value": "42"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2666,
+      "offset": 2683,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2847,
+      "offset": 2864,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2862,
+      "offset": 2879,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2940,
+      "offset": 2957,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3020,
+      "offset": 3037,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3128,
+      "offset": 3145,
       "length": 4,
       "value": "-129"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3135,
+      "offset": 3152,
       "length": 3,
       "value": "-98"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3173,
+      "offset": 3190,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4703,
+      "offset": 4720,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5450,
+      "offset": 5467,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5626,
+      "offset": 5655,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5843,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5811,
+      "offset": 6048,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5886,
+      "offset": 6123,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5973,
+      "offset": 6210,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6056,
+      "offset": 6293,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6134,
+      "offset": 6371,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6227,
+      "offset": 6464,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6328,
+      "offset": 6565,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6420,
+      "offset": 6657,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6492,
+      "offset": 6729,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6566,
+      "offset": 6803,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "StringLiteral",
-      "offset": 6909,
+      "offset": 7146,
       "length": 10,
       "value": "\"receiver\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7116,
+      "offset": 7353,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7318,
+      "offset": 7555,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7458,
+      "offset": 7695,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7921,
+      "offset": 8158,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 7933,
+      "offset": 8170,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8029,
+      "offset": 8266,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8583,
+      "offset": 8820,
       "length": 3,
       "value": "129"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8589,
+      "offset": 8826,
       "length": 2,
       "value": "98"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8645,
+      "offset": 8882,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8786,
+      "offset": 9023,
       "length": 4,
       "value": "-129"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 8793,
+      "offset": 9030,
       "length": 3,
       "value": "-98"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8848,
+      "offset": 9085,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8928,
+      "offset": 9165,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9067,
+      "offset": 9304,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9121,
+      "offset": 9358,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9237,
+      "offset": 9474,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9411,
+      "offset": 9648,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9540,
+      "offset": 9777,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9544,
+      "offset": 9781,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 9704,
+      "offset": 9941,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "StringLiteral",
-      "offset": 9777,
+      "offset": 10014,
       "length": 15,
       "value": "\"TitleHeadView\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "StringLiteral",
-      "offset": 10193,
+      "offset": 10430,
       "length": 14,
       "value": "\"UserItemCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "StringLiteral",
-      "offset": 10394,
+      "offset": 10631,
       "length": 13,
       "value": "\"AddressCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "StringLiteral",
-      "offset": 10591,
+      "offset": 10828,
       "length": 11,
       "value": "\"PhoneCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "StringLiteral",
-      "offset": 10914,
+      "offset": 11151,
       "length": 11,
       "value": "\"EmailCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/OrganisationDetailsInfoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11392,
+      "offset": 11629,
       "length": 2,
       "value": "76"
     },
@@ -24639,549 +24625,738 @@
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1581,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1746,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1813,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1958,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1995,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 2286,
+      "offset": 2933,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2598,
+      "offset": 3245,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2842,
+      "offset": 3437,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2858,
+      "offset": 3453,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2939,
+      "offset": 3533,
+      "length": 2,
+      "value": "48"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3548,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3630,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3646,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3721,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3755,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3956,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4042,
+      "length": 3,
+      "value": "-12"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4058,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4122,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4137,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4200,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4215,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4428,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4444,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4525,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2954,
+      "offset": 4540,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3037,
+      "offset": 4623,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3053,
+      "offset": 4639,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3117,
+      "offset": 4703,
       "length": 2,
       "value": "42"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3132,
+      "offset": 4718,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3313,
+      "offset": 4899,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3328,
+      "offset": 4914,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3406,
+      "offset": 4992,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3486,
+      "offset": 5072,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3594,
-      "length": 4,
-      "value": "-129"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3601,
+      "offset": 5170,
       "length": 3,
-      "value": "-98"
+      "value": "-10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3639,
+      "offset": 5208,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6133,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "StringLiteral",
+      "offset": 6626,
+      "length": 14,
+      "value": "\"documents:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7146,
+      "length": 2,
+      "value": "64"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4667,
+      "offset": 7180,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5142,
+      "offset": 7294,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 5297,
+      "offset": 7346,
+      "length": 10,
+      "value": "\"tip_icon\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7617,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8092,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "StringLiteral",
+      "offset": 8247,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 5346,
+      "offset": 8296,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 5553,
+      "offset": 8503,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 5776,
+      "offset": 8726,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6004,
+      "offset": 8954,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6256,
+      "offset": 9206,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 6560,
+      "offset": 9510,
       "length": 9,
       "value": "\"address\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 6657,
+      "offset": 9607,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6850,
+      "offset": 9800,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 7087,
+      "offset": 10037,
       "length": 9,
       "value": "\"pending\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 7182,
+      "offset": 10132,
       "length": 10,
       "value": "\"approved\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 7257,
+      "offset": 10207,
       "length": 10,
       "value": "\"APPROVED\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 7538,
+      "offset": 10488,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 7750,
+      "offset": 10700,
       "length": 10,
       "value": "\"approved\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 7825,
+      "offset": 10775,
       "length": 10,
       "value": "\"rejected\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 7900,
+      "offset": 10850,
       "length": 24,
       "value": "\"resubmission_requested\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8085,
+      "offset": 11035,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 8719,
+      "offset": 11669,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9209,
+      "offset": 12159,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9357,
+      "offset": 12307,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 10120,
+      "offset": 13070,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10595,
+      "offset": 13545,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10700,
+      "offset": 13650,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 10902,
+      "offset": 13852,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "Array",
-      "offset": 11061,
+      "offset": 14011,
       "length": 19,
       "value": "[\"com.adobe.pdf\"]"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11328,
+      "offset": 14278,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11440,
+      "offset": 14390,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11549,
+      "offset": 14499,
       "length": 4,
       "value": "-129"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11556,
+      "offset": 14506,
       "length": 3,
       "value": "-98"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11594,
+      "offset": 14544,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 11767,
+      "offset": 14717,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12321,
+      "offset": 15271,
       "length": 3,
       "value": "129"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12327,
+      "offset": 15277,
       "length": 2,
       "value": "98"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12383,
+      "offset": 15333,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12524,
+      "offset": 15474,
       "length": 4,
       "value": "-129"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12531,
+      "offset": 15481,
       "length": 3,
       "value": "-98"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12586,
+      "offset": 15536,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12666,
+      "offset": 15616,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 12805,
+      "offset": 15755,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12859,
+      "offset": 15809,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 12975,
+      "offset": 15925,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13148,
+      "offset": 16098,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13277,
+      "offset": 16227,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13293,
+      "offset": 16243,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13297,
+      "offset": 16247,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13457,
+      "offset": 16407,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 13530,
+      "offset": 16480,
       "length": 15,
       "value": "\"TitleHeadView\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13768,
+      "offset": 16718,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 13841,
+      "offset": 16791,
       "length": 29,
       "value": "\"OrganisationDetailsHeadView\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 14264,
+      "offset": 17214,
       "length": 16,
       "value": "\"UploadFileCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 14743,
+      "offset": 17693,
       "length": 20,
       "value": "\"DocumentUploadCell\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 15349,
+      "offset": 18299,
       "length": 2,
       "value": "76"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 16458,
+      "offset": 19408,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 17018,
+      "offset": 19968,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "StringLiteral",
-      "offset": 17514,
+      "offset": 20464,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19331,
+      "offset": 22281,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19631,
+      "offset": 22581,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19643,
+      "offset": 22593,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19691,
+      "offset": 22641,
       "length": 1,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "StringLiteral",
+      "offset": 22975,
+      "length": 11,
+      "value": "\"documents\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Business\/AddSupportingDocumentsVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23046,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
@@ -30088,7 +30263,7 @@
       "kind": "IntegerLiteral",
       "offset": 6660,
       "length": 2,
-      "value": "14"
+      "value": "12"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Business\/UploadFileCell.swift",
@@ -30660,210 +30835,147 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4249,
+      "offset": 4031,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4486,
+      "offset": 4268,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 4819,
+      "offset": 4601,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 5260,
+      "offset": 4990,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 5264,
+      "offset": 4994,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 5399,
+      "offset": 5218,
       "length": 22,
       "value": "\"submission_requested\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 5495,
+      "offset": 5314,
       "length": 10,
       "value": "\"approved\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 5578,
+      "offset": 5397,
       "length": 10,
       "value": "\"APPROVED\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 6334,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6338,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6562,
-      "length": 22,
-      "value": "\"submission_requested\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6658,
+      "offset": 6142,
       "length": 10,
       "value": "\"approved\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 6741,
-      "length": 10,
-      "value": "\"APPROVED\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7486,
-      "length": 10,
-      "value": "\"approved\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7566,
+      "offset": 6222,
       "length": 10,
       "value": "\"rejected\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 7646,
+      "offset": 6302,
       "length": 24,
       "value": "\"resubmission_requested\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7804,
+      "offset": 6460,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 8189,
-      "length": 10,
-      "value": "\"approved\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8269,
-      "length": 10,
-      "value": "\"rejected\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8349,
-      "length": 24,
-      "value": "\"resubmission_requested\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8507,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8593,
+      "offset": 6546,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 8613,
+      "offset": 6566,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 8633,
+      "offset": 6586,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 8652,
+      "offset": 6605,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 8674,
+      "offset": 6627,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "StringLiteral",
-      "offset": 8694,
+      "offset": 6647,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "Array",
-      "offset": 8717,
+      "offset": 6670,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "Array",
-      "offset": 8737,
+      "offset": 6690,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/VerifyBlocManager.swift",
       "kind": "Array",
-      "offset": 8763,
+      "offset": 6716,
       "length": 2,
       "value": "[]"
     }

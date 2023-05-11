@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "ईमेल\nआपको इस ईमेल पर एक पुष्टिकरण कोड प्राप्त करने के लिए सक्षम होना चाहिए।";
 "kycCorporateDetailWebsiteTitle" = "वेबसाइट (वैकल्पिक)";
 "kycCorporateCheckEmailTitle" = "अपना ईमेल देखें";
-"kycCorporateCheckEmailSubtitle" = "हम एक पुष्टिकरण कोड %1$s वाले ईमेल पर भेजेंगे। अपने कानूनी संगठन के नाम और पते या फोन नंबर वाले दस्तावेज़ अपलोड करें।";
+"kycCorporateCheckEmailSubtitle" = "हम एक पुष्टिकरण कोड %@ वाले ईमेल पर भेजेंगे। अपने कानूनी संगठन के नाम और पते या फोन नंबर वाले दस्तावेज़ अपलोड करें।";
 "kycCorporateCheckCodeName" = "पुष्टिकरण कोड";
 "kycCorporateCheckCodeResend" = "कोड फिर से भेजें";
 "kycCorporateCheckCodeInvalid" = "यह कोड मान्य नहीं है";

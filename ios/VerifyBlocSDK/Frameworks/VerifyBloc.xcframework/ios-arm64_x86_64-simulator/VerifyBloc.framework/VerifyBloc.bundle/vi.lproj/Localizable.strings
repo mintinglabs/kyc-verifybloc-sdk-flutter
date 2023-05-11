@@ -126,7 +126,7 @@
 "kycCorporateDetailEmailTitle" = "Email\nBạn phải có thể nhận được mã xác nhận tại địa chỉ email này.";
 "kycCorporateDetailWebsiteTitle" = "Trang web (tùy chọn)";
 "kycCorporateCheckEmailTitle" = "Kiểm tra email của bạn";
-"kycCorporateCheckEmailSubtitle" = "Chúng tôi sẽ gửi một mã xác nhận đến một email %1$s. Tải lên các tài liệu có tên và địa chỉ tổ chức pháp lý của bạn hoặc số điện thoại.";
+"kycCorporateCheckEmailSubtitle" = "Chúng tôi sẽ gửi một mã xác nhận đến một email %@. Tải lên các tài liệu có tên và địa chỉ tổ chức pháp lý của bạn hoặc số điện thoại.";
 "kycCorporateCheckCodeName" = "Mã xác nhận";
 "kycCorporateCheckCodeResend" = "Gửi lại mã";
 "kycCorporateCheckCodeInvalid" = "Mã này không hợp lệ";
