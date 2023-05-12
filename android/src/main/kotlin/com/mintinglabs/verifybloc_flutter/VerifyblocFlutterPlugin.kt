@@ -1,5 +1,6 @@
 package com.mintinglabs.verifybloc_flutter
 
+import android.app.Activity
 import androidx.annotation.MainThread
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
@@ -11,6 +12,16 @@ import network.mintex.module_kyc.export.VerifyBlocManager
 /** VerifyblocFlutterPlugin */
 class VerifyblocFlutterPlugin : FlutterPlugin, ActivityAware, VerifyblocFlutterApi {
     private var binding: ActivityPluginBinding? = null
+
+    private val activity: Activity
+        get() {
+            val binding =
+                this.binding ?: throw FlutterError(
+                    "-1",
+                    "Plugin hasn't been attached to an Activity"
+                )
+            return binding.activity
+        }
 
     override fun onAttachedToEngine(flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
         VerifyblocFlutterApi.setUp(flutterPluginBinding.binaryMessenger, this)
@@ -46,7 +57,7 @@ class VerifyblocFlutterPlugin : FlutterPlugin, ActivityAware, VerifyblocFlutterA
 
     @MainThread
     override fun setAppLocale(locale: String) {
-        VerifyBlocManager.setAppLocale(locale)
+        VerifyBlocManager.setAppLocale(activity, locale)
     }
 
     @MainThread
@@ -66,10 +77,8 @@ class VerifyblocFlutterPlugin : FlutterPlugin, ActivityAware, VerifyblocFlutterA
 
     @MainThread
     override fun startVerification(userId: String, identityType: Long) {
-        val binding =
-            this.binding ?: throw FlutterError("-1", "Plugin hasn't been attached to an Activity")
         VerifyBlocManager.startVerification(
-            binding.activity,
+            activity,
             userId,
             VerifyBlocIdentityType.values()[identityType.toInt()]
         )
