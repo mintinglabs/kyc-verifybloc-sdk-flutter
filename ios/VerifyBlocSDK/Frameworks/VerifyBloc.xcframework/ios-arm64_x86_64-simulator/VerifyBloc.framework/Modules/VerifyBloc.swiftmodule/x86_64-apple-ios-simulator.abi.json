@@ -15202,6 +15202,20 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Theme\/Lang.swift",
+      "kind": "StringLiteral",
+      "offset": 17089,
+      "length": 23,
+      "value": "\"kycSomethingWentWrong\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Theme\/Lang.swift",
+      "kind": "StringLiteral",
+      "offset": 17115,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyEnterVC.swift",
       "kind": "IntegerLiteral",
       "offset": 248,
@@ -30660,9 +30674,16 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Snackbar.swift",
       "kind": "StringLiteral",
-      "offset": 3126,
-      "length": 47,
-      "value": "\"Something went wrong. Please try again later.\""
+      "offset": 3170,
+      "length": 9,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/View\/Snackbar.swift",
+      "kind": "StringLiteral",
+      "offset": 3178,
+      "length": 3,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Model\/Enum\/VerifyBlocIdentityType.swift",

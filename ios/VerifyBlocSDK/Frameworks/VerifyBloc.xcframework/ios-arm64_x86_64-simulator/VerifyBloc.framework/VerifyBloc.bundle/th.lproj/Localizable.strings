@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "เลือกไฟล์";
 "emailInvalidError" = "โปรดตรวจสอบให้แน่ใจว่าที่อยู่อีเมลของคุณถูกต้อง";
 "kycBottomContactUsTips" = "ไม่พบประเภทเอกสารของคุณหรือประเทศที่มีปัญหา? ติดต่อเรา";
+"kycSomethingWentWrong" = "%@ - เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง";

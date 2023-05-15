@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Dosya seç";
 "emailInvalidError" = "Lütfen e-posta adresinizin doğru olduğundan emin olun";
 "kycBottomContactUsTips" = "Belgenizin türünü veya verildiği ülkeyi bulamıyor musunuz? Bize Ulaşın";
+"kycSomethingWentWrong" = "%@ - Bir hata oluştu. Lütfen daha sonra tekrar deneyin.";

@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Pilih file";
 "emailInvalidError" = "Harap pastikan alamat email Anda sudah benar";
 "kycBottomContactUsTips" = "Tidak dapat menemukan jenis dokumen atau negara penerbit Anda? Hubungi kami.";
+"kycSomethingWentWrong" = "%@ - Terjadi kesalahan. Silakan coba lagi nanti.";

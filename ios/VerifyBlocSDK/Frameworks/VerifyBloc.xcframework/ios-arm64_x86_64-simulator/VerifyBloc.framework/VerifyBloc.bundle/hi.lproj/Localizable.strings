@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "फ़ाइल चुनें";
 "emailInvalidError" = "कृपया सुनिश्चित करें कि आपका ईमेल पता सही है।";
 "kycBottomContactUsTips" = "आपका दस्तावेज़ प्रकार या जारी करने वाला देश नहीं मिल रहा है? संपर्क करें";
+"kycSomethingWentWrong" = "%@ - कुछ गलत हो गया। कृपया बाद में पुनः प्रयास करें।";

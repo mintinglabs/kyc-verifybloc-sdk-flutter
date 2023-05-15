@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Chọn tập tin";
 "emailInvalidError" = "Hãy chắc chắn rằng địa chỉ email của bạn là chính xác";
 "kycBottomContactUsTips" = "Không thể tìm thấy loại tài liệu hoặc quốc gia phát hành của bạn? Liên hệ với chúng tôi";
+"kycSomethingWentWrong" = "%@ - Đã xảy ra lỗi. Vui lòng thử lại sau.";

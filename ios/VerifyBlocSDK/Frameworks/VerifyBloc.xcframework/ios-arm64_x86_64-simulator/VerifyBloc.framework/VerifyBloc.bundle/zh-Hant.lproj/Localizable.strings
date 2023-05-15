@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "選擇文件";
 "emailInvalidError" = "請確保您的電子郵件地址是正確的";
 "kycBottomContactUsTips" = "找不到您的文件類型或簽發國家/地區？聯繫我們";
+"kycSomethingWentWrong" = "%@ - 出現錯誤，請稍後再試。";

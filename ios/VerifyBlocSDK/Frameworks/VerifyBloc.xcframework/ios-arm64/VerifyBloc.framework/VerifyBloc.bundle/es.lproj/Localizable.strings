@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Elegir archivos";
 "emailInvalidError" = "Por favor, asegúrate de que tu dirección de correo electrónico es correcta";
 "kycBottomContactUsTips" = "¿No encuentras el tipo de documento o el país de expedición? Ponte en contacto con nosotros";
+"kycSomethingWentWrong" = "%@ - Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut.";
