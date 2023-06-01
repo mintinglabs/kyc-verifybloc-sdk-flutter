@@ -24,7 +24,7 @@
 "kycProcessEstimatedReviewTime" = "预估审核时间";
 "kycProcessStartNow" = "立即开始";
 "kycVerifyIdentityTitle" = "验证身份";
-"kycVerifyIdentityTakeTime" = "仅需约 2 分钟\n";
+"kycVerifyIdentityTakeTime" = "仅需约 2 分钟";
 "kycVerifyIdentityDocument" = "身份证件";
 "kycVerifyIdentityPhotoOfYourIdOrPassport" = "拍摄您的身份证/护照/驾驶执照照片";
 "kycVerifyIdentitySelfie" = "身份验证";
@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "身份证";
 "kycVerifyDocumentPassport" = "护照";
 "kycVerifyDocumentDriverLicense" = "驾驶执照";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "居留许可证";
 "kycVerifyProcessCaptureIdCardFront" = "身份证正面";
 "kycVerifyProcessCaptureIdCardBack" = "身份证背面";
 "kycVerifyProcessCapturePassport" = "护照";
@@ -124,7 +124,7 @@
 "kycCorporateDetailHintZip" = "邮政编码";
 "kycCorporateDetailPhoneTitle" = "电话号码";
 "kycCorporateDetailEmailTitle" = "电子邮件\n您必须能够在此电子邮件地址接收确认码。";
-"kycCorporateDetailWebsiteTitle" = "网站（可选）\n";
+"kycCorporateDetailWebsiteTitle" = "网站（可选）";
 "kycCorporateCheckEmailTitle" = "请检查您的电子邮件";
 "kycCorporateCheckEmailSubtitle" = "我们会寄送一封确认码到 %@ 电子邮件信箱。请上传拥有您的合法组织名称和地址或电话号码的文件。";
 "kycCorporateCheckCodeName" = "确认码";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "选择文件";
 "emailInvalidError" = "请确保您的电子邮件地址是正确的";
 "kycBottomContactUsTips" = "找不到您的文件类型或签发国家/地区？联系我们";
+"kycSomethingWentWrong" = "%@ - 出现错误，请稍后重试。";

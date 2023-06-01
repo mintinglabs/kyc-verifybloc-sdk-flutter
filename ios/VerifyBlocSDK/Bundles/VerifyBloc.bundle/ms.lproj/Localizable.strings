@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Kad pengenalan";
 "kycVerifyDocumentPassport" = "Pasport";
 "kycVerifyDocumentDriverLicense" = "Lesen memandu";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Permit kediaman\n";
 "kycVerifyProcessCaptureIdCardFront" = "Muka depan kad pengenalan";
 "kycVerifyProcessCaptureIdCardBack" = "Belakang kad pengenalan";
 "kycVerifyProcessCapturePassport" = "Pasport";
@@ -68,7 +68,7 @@
 "kycSelfieRecordFaceFailed" = "Gagal merekod, sila cuba lagi.";
 "kycVerifyProcessPersonalDetails" = "Maklumat peribadi";
 "kycVerifyProcessPersonalDetailsTip" = "Lengkapkan permohonan anda dengan butiran di bawah";
-"kycVerifyProcessPersonalDetailsTip2" = "Sila masukkan butiran peribadi anda dalam bahasa yang sama dengan dokumen anda dikeluarkan.\n\nContohnya: Jika anda menggunakan dokumen yang dikeluarkan dalam Bahasa Korea, anda harus memasukkan nama anda dalam Bahasa Korea juga.";
+"kycVerifyProcessPersonalDetailsTip2" = "Sila masukkan butiran peribadi anda dalam bahasa yang sama dengan dokumen anda dikeluarkan.\n\n\nContohnya: Jika anda menggunakan dokumen yang dikeluarkan dalam Bahasa Korea, anda harus memasukkan nama anda dalam Bahasa Korea juga.";
 "kycVerifyProcessPersonalDetailsFirstName" = "Nama Pertama";
 "kycVerifyProcessPersonalDetailsMiddleName" = "nama tengah (pilihan)";
 "kycVerifyProcessPersonalDetailsLastName" = "Nama keluarga";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Pilih fail";
 "emailInvalidError" = "Sila pastikan alamat e-mel adalah tepat";
 "kycBottomContactUsTips" = "Tidak menemui jenis dokumen atau negara pengeluar anda? Hubungi Kami";
+"kycSomethingWentWrong" = "%@ - Terjadi ralat. Sila cuba lagi nanti.";

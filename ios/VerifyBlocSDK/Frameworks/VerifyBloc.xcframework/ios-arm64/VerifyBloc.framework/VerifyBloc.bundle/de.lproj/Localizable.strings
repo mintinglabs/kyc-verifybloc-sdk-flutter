@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Personalausweis";
 "kycVerifyDocumentPassport" = "Pass";
 "kycVerifyDocumentDriverLicense" = "Führerschein";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Aufenthaltserlaubnis";
 "kycVerifyProcessCaptureIdCardFront" = "Vorderseite des Personalausweises";
 "kycVerifyProcessCaptureIdCardBack" = "Rückseite des Personalausweises";
 "kycVerifyProcessCapturePassport" = "Pass";

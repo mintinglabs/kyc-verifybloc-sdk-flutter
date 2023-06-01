@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Thẻ căn cước";
 "kycVerifyDocumentPassport" = "Hộ chiếu";
 "kycVerifyDocumentDriverLicense" = "Bằng lái xe";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Giấy phép cư trú";
 "kycVerifyProcessCaptureIdCardFront" = "Mặt trước giấy tờ tùy thân";
 "kycVerifyProcessCaptureIdCardBack" = "Quay lại giấy tờ tùy thân";
 "kycVerifyProcessCapturePassport" = "Hộ chiếu";
@@ -68,7 +68,7 @@
 "kycSelfieRecordFaceFailed" = "Ghi âm thất bại, vui lòng thử lại.";
 "kycVerifyProcessPersonalDetails" = "Thông tin cá nhân";
 "kycVerifyProcessPersonalDetailsTip" = "Vui lòng điền thông tin chi tiết bên dưới để hoàn thành đơn đăng ký của bạn.";
-"kycVerifyProcessPersonalDetailsTip2" = "Vui lòng nhập thông tin cá nhân của bạn bằng cùng ngôn ngữ với tài liệu của bạn được phát hành.\n\nVí dụ: Nếu bạn sử dụng một tài liệu được phát hành bằng tiếng Hàn, bạn nên nhập tên của mình bằng tiếng Hàn.";
+"kycVerifyProcessPersonalDetailsTip2" = "Vui lòng nhập thông tin cá nhân của bạn bằng cùng ngôn ngữ với tài liệu của bạn được phát hành.\n\n\nVí dụ: Nếu bạn sử dụng một tài liệu được phát hành bằng tiếng Hàn, bạn nên nhập tên của mình bằng tiếng Hàn.";
 "kycVerifyProcessPersonalDetailsFirstName" = "Tên";
 "kycVerifyProcessPersonalDetailsMiddleName" = "Tên đệm (tùy chọn)";
 "kycVerifyProcessPersonalDetailsLastName" = "Họ";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Chọn tập tin";
 "emailInvalidError" = "Hãy chắc chắn rằng địa chỉ email của bạn là chính xác";
 "kycBottomContactUsTips" = "Không thể tìm thấy loại tài liệu hoặc quốc gia phát hành của bạn? Liên hệ với chúng tôi";
+"kycSomethingWentWrong" = "%@ - Đã xảy ra lỗi. Vui lòng thử lại sau.";

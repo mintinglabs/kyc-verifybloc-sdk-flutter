@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Kartu Identitas";
 "kycVerifyDocumentPassport" = "Paspor";
 "kycVerifyDocumentDriverLicense" = "Surat Izin Mengemudi";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Izin Tinggal";
 "kycVerifyProcessCaptureIdCardFront" = "Bagian depan Kartu Identitas";
 "kycVerifyProcessCaptureIdCardBack" = "Bagian belakang Kartu Identitas";
 "kycVerifyProcessCapturePassport" = "Paspor";

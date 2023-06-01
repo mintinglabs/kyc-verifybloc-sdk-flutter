@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "身份證";
 "kycVerifyDocumentPassport" = "護照";
 "kycVerifyDocumentDriverLicense" = "駕駛執照";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "居留許可證";
 "kycVerifyProcessCaptureIdCardFront" = "身份證正面";
 "kycVerifyProcessCaptureIdCardBack" = "身份證背面";
 "kycVerifyProcessCapturePassport" = "護照";
@@ -61,7 +61,7 @@
 "kycSelfieCaptureFaceDetecting" = "人臉偵測中...";
 "kycSelfieCaptureFaceDetectingTip" = "請看向相機框架";
 "kycSelfieCaptureFaceReadyToTakePhoto" = "準備拍照";
-"kycSelfieCaptureFacePhotoTaken" = "照片已拍攝完成！\n";
+"kycSelfieCaptureFacePhotoTaken" = "照片已拍攝完成！";
 "kycSelfieCaptureFaceKeepLookingInTheCamera" = "請繼續看著相機鏡頭";
 "kycSelfieCaptureFaceLivenessDetectionCompleted" = "活體檢測完成！";
 "kycSelfieCaptureFaceFailed" = "拍攝失敗，請再試一次。";
@@ -95,7 +95,7 @@
 "errorPageTip" = "請稍後再試。";
 "canNotFindYourDocument" = "找不到您的文件類型或發行國家？";
 "cameraPermissionNotGrant" = "未獲得使用者授權的權限。";
-"cameraAccessIsOff" = "“相機”訪問已關閉\n";
+"cameraAccessIsOff" = "“相機”訪問已關閉";
 "cameraAccessIsOffInfo" = "您需要在設備設定中更改此設置以啟用KYC流程。";
 "goSetting" = "前往設置";
 "snackBarNetworkDisconnectedInfo" = "看起來你沒有連接到網路。";
@@ -113,7 +113,7 @@
 "kycBottomWarmTips" = "找不到您的文件類型或發行國家？";
 "kycBottomTermsLabel" = "點擊“下一步”，即表示您同意我們的條款和條件，並同意我們處理您的個人數據";
 "kycBottomTermsLabelHighLightSpan" = "條款和條件";
-"kycCorporateDetailTitle" = "組織詳細信息\n";
+"kycCorporateDetailTitle" = "組織詳細信息";
 "kycCorporateDetailSubtile" = "我們將使用這些詳細信息查找您組織的官方記錄，以確認其真實性。如果沒有匹配項，您可以上傳文件以驗證此信息。";
 "kycCorporateDetailName" = "組織名稱";
 "kycCorporateDetailAddressTitle" = "組織地址";
@@ -129,10 +129,10 @@
 "kycCorporateCheckEmailSubtitle" = "我們會寄送一封確認碼到 %@ 電子郵件信箱。請上傳擁有您的合法組織名稱和地址或電話號碼的文件。";
 "kycCorporateCheckCodeName" = "確認碼";
 "kycCorporateCheckCodeResend" = "重新發送驗證碼";
-"kycCorporateCheckCodeInvalid" = "此代碼無效\n";
-"kycCorporateDocumentUploadTitle" = "添加支持文件\n";
+"kycCorporateCheckCodeInvalid" = "此代碼無效";
+"kycCorporateDocumentUploadTitle" = "添加支持文件";
 "kycCorporateDocumentUploadSubtitle" = "您需要上傳文件以確認您輸入的詳細信息。您可以上傳同一份文件多次。";
-"kycCorporateDocumentUploadDetailName" = "組織詳細信息\n";
+"kycCorporateDocumentUploadDetailName" = "組織詳細信息";
 "kycCorporateDocumentUploadDetailVerifyLegalName" = "驗證法定名稱";
 "kycCorporateDocumentUploadDetailVerifyLegalDesc" = "已接受的文件必須包括法定名稱。";
 "kycCorporateDocumentUploadDetailVerifyLegalDescSpan" = "已接受的文件";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "選擇文件";
 "emailInvalidError" = "請確保您的電子郵件地址是正確的";
 "kycBottomContactUsTips" = "找不到您的文件類型或簽發國家/地區？聯繫我們";
+"kycSomethingWentWrong" = "%@ - 出現錯誤，請稍後再試。";

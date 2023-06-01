@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Carta d'identità";
 "kycVerifyDocumentPassport" = "Passaporto";
 "kycVerifyDocumentDriverLicense" = "Patente di guida";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Permesso di soggiorno";
 "kycVerifyProcessCaptureIdCardFront" = "Fronte della carta d'identità";
 "kycVerifyProcessCaptureIdCardBack" = "Retro della carta d'identità";
 "kycVerifyProcessCapturePassport" = "Passaporto";

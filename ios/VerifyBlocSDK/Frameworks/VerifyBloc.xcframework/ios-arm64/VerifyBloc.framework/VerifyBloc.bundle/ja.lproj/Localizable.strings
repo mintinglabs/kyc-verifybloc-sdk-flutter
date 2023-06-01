@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "身分証明書";
 "kycVerifyDocumentPassport" = "パスポート";
 "kycVerifyDocumentDriverLicense" = "運転免許証";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "在留許可証 ";
 "kycVerifyProcessCaptureIdCardFront" = "身分証明書の前面";
 "kycVerifyProcessCaptureIdCardBack" = "身分証明書裏面";
 "kycVerifyProcessCapturePassport" = "パスポート";

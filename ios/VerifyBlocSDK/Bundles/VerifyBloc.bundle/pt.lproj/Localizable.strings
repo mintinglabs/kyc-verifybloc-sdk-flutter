@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Cartão de identificação";
 "kycVerifyDocumentPassport" = "Passaporte";
 "kycVerifyDocumentDriverLicense" = "Carta de Condução";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Permissão de residência";
 "kycVerifyProcessCaptureIdCardFront" = "frente do cartão de identificação";
 "kycVerifyProcessCaptureIdCardBack" = "Cartão de identificação de volta";
 "kycVerifyProcessCapturePassport" = "Passaporte";
@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Submeter novamente";
 "kycVerifyStatusUnderReviewTip" = "Iremos notificá-lo assim que a sua verificação estiver concluída. ";
 "kycVerifyStatusRejectResubmissionTip" = "Por favor, envie novamente sua solicitação de verificação.";
-"kycVerifyStatusRejectFinalTip1" = "Não pudemos verificar seu perfil. Por favor, entre em contato com\n\n\n\n\n";
+"kycVerifyStatusRejectFinalTip1" = "Não pudemos verificar seu perfil. Por favor, entre em contato com";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " para mais detalhes.";
 "kycVerifyStatusApprovedTip" = "O seu pedido KYC está concluído e aprovado!";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Escolher arquivos";
 "emailInvalidError" = "Por favor, certifique-se de que o seu endereço de e-mail está correto";
 "kycBottomContactUsTips" = "Não consegue encontrar o seu tipo de documento ou país de emissão? Contacte-nos";
+"kycSomethingWentWrong" = "%@ - Ocorreu um erro. Por favor, tente novamente mais tarde.";

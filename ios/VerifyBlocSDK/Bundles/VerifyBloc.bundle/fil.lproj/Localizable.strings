@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "ID card";
 "kycVerifyDocumentPassport" = "Pasaporte";
 "kycVerifyDocumentDriverLicense" = "Lisensya ng isang Drayber";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Residence Permit";
 "kycVerifyProcessCaptureIdCardFront" = "Harapan ng ID card";
 "kycVerifyProcessCaptureIdCardBack" = "Likod ng ID card";
 "kycVerifyProcessCapturePassport" = "Pasaporte";
@@ -68,7 +68,7 @@
 "kycSelfieRecordFaceFailed" = "Failed to record, subukan ulit.";
 "kycVerifyProcessPersonalDetails" = "Personal na detalye";
 "kycVerifyProcessPersonalDetailsTip" = "Kumpletuhin ang iyong aplikasyon gamit ang mga detalye sa ibaba";
-"kycVerifyProcessPersonalDetailsTip2" = "Mangyaring maglagay ng mga personal na detalye sa parehong wika ng iyong dokumento.\n\nHalimbawa: Kung gagamit ka ng isang dokumento na inilabas sa Korean, dapat mong ilagay ang iyong pangalan sa Korean rin.";
+"kycVerifyProcessPersonalDetailsTip2" = "Mangyaring maglagay ng mga personal na detalye sa parehong wika ng iyong dokumento.\n\n\nHalimbawa: Kung gagamit ka ng isang dokumento na inilabas sa Korean, dapat mong ilagay ang iyong pangalan sa Korean rin.";
 "kycVerifyProcessPersonalDetailsFirstName" = "Pangalan";
 "kycVerifyProcessPersonalDetailsMiddleName" = "Gitnang pangalan (opsiyonal)";
 "kycVerifyProcessPersonalDetailsLastName" = "Apelyido";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Pumili ng mga file";
 "emailInvalidError" = "Tiyakin na tama ang iyong email address";
 "kycBottomContactUsTips" = "Hindi mahanap ang uri ng iyong dokumento o bansang nag-isyu? Makipag-ugnayan sa amin";
+"kycSomethingWentWrong" = "%@ - May nangyaring mali. Subukan muli mamaya.";

@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "kimlik kartı";
 "kycVerifyDocumentPassport" = "Pasaport";
 "kycVerifyDocumentDriverLicense" = "Ehliyet";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "İkamet izni";
 "kycVerifyProcessCaptureIdCardFront" = "kimlik kartı ön";
 "kycVerifyProcessCaptureIdCardBack" = "kimlik kartı arka";
 "kycVerifyProcessCapturePassport" = "Pasaport";
@@ -68,7 +68,7 @@
 "kycSelfieRecordFaceFailed" = "Kayıt başarısız, lütfen tekrar deneyin.";
 "kycVerifyProcessPersonalDetails" = "Kişisel detaylar";
 "kycVerifyProcessPersonalDetailsTip" = "Başvurunuzu aşağıdaki ayrıntılarla tamamlayın.";
-"kycVerifyProcessPersonalDetailsTip2" = "Lütfen belgenizin çıkarıldığı dilde kişisel bilgilerinizi girin. \n\nÖrneğin: Korece çıkarılan bir belge kullanıyorsanız, adınızı da Korece girin.";
+"kycVerifyProcessPersonalDetailsTip2" = "Lütfen belgenizin çıkarıldığı dilde kişisel bilgilerinizi girin. \n\n\nÖrneğin: Korece çıkarılan bir belge kullanıyorsanız, adınızı da Korece girin.";
 "kycVerifyProcessPersonalDetailsFirstName" = "İlk adı";
 "kycVerifyProcessPersonalDetailsMiddleName" = "İkinci ad (isteğe bağlı)";
 "kycVerifyProcessPersonalDetailsLastName" = "Soyadı";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Dosya seç";
 "emailInvalidError" = "Lütfen e-posta adresinizin doğru olduğundan emin olun";
 "kycBottomContactUsTips" = "Belgenizin türünü veya verildiği ülkeyi bulamıyor musunuz? Bize Ulaşın";
+"kycSomethingWentWrong" = "%@ - Bir hata oluştu. Lütfen daha sonra tekrar deneyin.";

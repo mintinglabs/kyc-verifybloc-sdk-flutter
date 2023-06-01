@@ -38,11 +38,11 @@
 "kycVerifyDocumentIdCard" = "신분증";
 "kycVerifyDocumentPassport" = "여권";
 "kycVerifyDocumentDriverLicense" = "운전면허증";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "거주 허가증 ";
 "kycVerifyProcessCaptureIdCardFront" = "신분증 앞면";
 "kycVerifyProcessCaptureIdCardBack" = "신분증 뒷면";
 "kycVerifyProcessCapturePassport" = "여권";
-"kycVerifyProcessCaptureDriverLicenseFront" = "운전 면허증 앞면\n";
+"kycVerifyProcessCaptureDriverLicenseFront" = "운전 면허증 앞면";
 "kycVerifyProcessCaptureDriverLicenseBack" = "운전면허증 뒷면";
 "kycVerifyProcessCaptureSelfie" = "셀카";
 "kycVerifyProcessCaptureIdCardFrontTip" = "신분증 앞면 사진 촬영";
@@ -68,7 +68,7 @@
 "kycSelfieRecordFaceFailed" = "녹음 실패, 다시 시도하세요.";
 "kycVerifyProcessPersonalDetails" = "개인 정보";
 "kycVerifyProcessPersonalDetailsTip" = "아래의 세부 정보를 입력하여 신청을 완료하십시오.";
-"kycVerifyProcessPersonalDetailsTip2" = "문서가 발행된 언어로 개인정보를 입력하십시오.\n\n예: 한국어로 발행된 문서를 사용하는 경우 이름을 한국어로 입력해야합니다.";
+"kycVerifyProcessPersonalDetailsTip2" = "문서가 발행된 언어로 개인정보를 입력하십시오.\n\n\n예: 한국어로 발행된 문서를 사용하는 경우 이름을 한국어로 입력해야합니다.";
 "kycVerifyProcessPersonalDetailsFirstName" = "이름";
 "kycVerifyProcessPersonalDetailsMiddleName" = "중간 이름 (선택 사항)";
 "kycVerifyProcessPersonalDetailsLastName" = "성";

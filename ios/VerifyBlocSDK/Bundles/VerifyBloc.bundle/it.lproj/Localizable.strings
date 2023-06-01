@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Carta d'identità";
 "kycVerifyDocumentPassport" = "Passaporto";
 "kycVerifyDocumentDriverLicense" = "Patente di guida";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "Permesso di soggiorno";
 "kycVerifyProcessCaptureIdCardFront" = "Fronte della carta d'identità";
 "kycVerifyProcessCaptureIdCardBack" = "Retro della carta d'identità";
 "kycVerifyProcessCapturePassport" = "Passaporto";
@@ -145,3 +145,4 @@
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Scegli i file";
 "emailInvalidError" = "Si prega di assicurarsi che il vostro indirizzo email sia corretto";
 "kycBottomContactUsTips" = "Non riesci a trovare il tipo di documento o il paese di emissione? Contattaci";
+"kycSomethingWentWrong" = "%@ - Si è verificato un errore. Si prega di riprovare più tardi.";

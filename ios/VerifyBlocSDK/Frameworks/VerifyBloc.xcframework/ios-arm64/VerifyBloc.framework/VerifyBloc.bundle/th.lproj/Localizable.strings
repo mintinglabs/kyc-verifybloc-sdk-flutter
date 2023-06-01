@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "บัตรประจำตัวประชาชน";
 "kycVerifyDocumentPassport" = "หนังสือเดินทาง";
 "kycVerifyDocumentDriverLicense" = "ใบอนุญาตขับรถ";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "ใบอนุญาตถาวรการพำนัก";
 "kycVerifyProcessCaptureIdCardFront" = "หน้าบัตรไอดีด้านหน้า";
 "kycVerifyProcessCaptureIdCardBack" = "หลังบัตรประชาชน";
 "kycVerifyProcessCapturePassport" = "หนังสือเดินทาง";
@@ -68,7 +68,7 @@
 "kycSelfieRecordFaceFailed" = "บันทึกล้มเหลว โปรดลองอีกครั้ง";
 "kycVerifyProcessPersonalDetails" = "ข้อมูลส่วนตัว";
 "kycVerifyProcessPersonalDetailsTip" = "กรุณากรอกรายละเอียดด้านล่างเพื่อสมัครของคุณให้เสร็จสิ้น";
-"kycVerifyProcessPersonalDetailsTip2" = "โปรดใส่รายละเอียดส่วนตัวของคุณในภาษาที่เอกสารออกให้.\n\nตัวอย่างเช่น: หากคุณใช้เอกสารที่ออกในภาษาเกาหลีคุณควรป้อนชื่อของคุณเป็นภาษาเกาหลีเช่นกัน";
+"kycVerifyProcessPersonalDetailsTip2" = "โปรดใส่รายละเอียดส่วนตัวของคุณในภาษาที่เอกสารออกให้.\n\n\nตัวอย่างเช่น: หากคุณใช้เอกสารที่ออกในภาษาเกาหลีคุณควรป้อนชื่อของคุณเป็นภาษาเกาหลีเช่นกัน";
 "kycVerifyProcessPersonalDetailsFirstName" = "ชื่อจริง";
 "kycVerifyProcessPersonalDetailsMiddleName" = "ชื่อกลาง (ถ้ามี)";
 "kycVerifyProcessPersonalDetailsLastName" = "นามสกุล";
@@ -91,7 +91,7 @@
 "kycVerifyStatusApprovedTip" = "การสมัครของคุณสำหรับ KYC เสร็จสมบูรณ์และได้รับการอนุมัติแล้ว!";
 "titleActivityTest" = "TestActivity";
 "kycCountrySearchNoResult" = "ไม่พบผลลัพธ์";
-"errorPageInfo" = "เกิดข้อผิดพลาด...\n";
+"errorPageInfo" = "เกิดข้อผิดพลาด...";
 "errorPageTip" = "โปรดลองอีกครั้งในภายหลัง";
 "canNotFindYourDocument" = "";
 "cameraPermissionNotGrant" = "การอนุญาตที่ไม่ได้รับจากผู้ใช้";

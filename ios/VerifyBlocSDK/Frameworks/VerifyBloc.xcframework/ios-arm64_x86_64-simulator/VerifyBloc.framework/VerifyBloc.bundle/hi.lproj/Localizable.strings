@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "आईडी कार्ड";
 "kycVerifyDocumentPassport" = "पासपोर्ट";
 "kycVerifyDocumentDriverLicense" = "ड्राइवर लाइसेंस";
-"kycVerifyDocumentResidencePermit" = "";
+"kycVerifyDocumentResidencePermit" = "निवास परमिट";
 "kycVerifyProcessCaptureIdCardFront" = "आईडी कार्ड सामने से";
 "kycVerifyProcessCaptureIdCardBack" = "आईडी कार्ड पीछे से";
 "kycVerifyProcessCapturePassport" = "पासपोर्ट";
