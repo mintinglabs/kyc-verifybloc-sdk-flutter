@@ -61,23 +61,31 @@ packages:
     dependency: "direct main"
     description:
       name: flex_color_picker
-      sha256: fc035dbef0975dd2650f9db1335c552e3b0ce87da4900b00f6b98cd6c78cbe42
+      sha256: d8279250820ad279123fa8ee94151dd99400dd9ef4fb096589fcf956765d39a9
       url: "https://pub.dev"
     source: hosted
-    version: "3.2.1"
+    version: "3.2.2"
   flex_seed_scheme:
     dependency: transitive
     description:
       name: flex_seed_scheme
-      sha256: b3678d82403c13dec2ee2721e078b26f14577712411b6aa981b0f4269df3fabb
+      sha256: e4168a6fc88a3e5bc3d6b7a748c6a6083eedc193d343ddc26bbad7fb1b258555
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.4"
+    version: "1.3.0"
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_lints:
+    dependency: "direct dev"
+    description:
+      name: flutter_lints
+      sha256: aeb0b80a8b3709709c9cc496cdc027c5b3216796bc0af0ce1007eaf24464fd4c
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -91,6 +99,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.7"
+  lints:
+    dependency: transitive
+    description:
+      name: lints
+      sha256: "0a217c6c989d21039f1498c3ed9f3ed71b354e69873f13a8dfc3c9fe76f1b452"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.1"
   matcher:
     dependency: transitive
     description:
@@ -115,15 +131,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
-  ml_flutter_lints:
-    dependency: "direct dev"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "692549c058961185b8332e46203f6f52fd8c6f02"
-      url: "git@github.com:mintinglabs/ml_flutter_lints.git"
-    source: git
-    version: "3.7.8"
   path:
     dependency: transitive
     description:
@@ -219,12 +226,11 @@ packages:
   verifybloc_flutter_platform_interface:
     dependency: transitive
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "2fe156545552845b103637b7234e61ee9fc2a29d"
-      url: "git@github.com:mintinglabs/verifybloc_flutter_platform_interface.git"
-    source: git
+      name: verifybloc_flutter_platform_interface
+      sha256: f6dab9594768c354b59b1624d2757a30154dfc17f311af6f6b60e7f1d0251d7d
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
 sdks:
-  dart: ">=3.0.0-0 <4.0.0"
+  dart: ">=3.0.1 <4.0.0"
   flutter: ">=3.7.0"

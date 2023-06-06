@@ -13,35 +13,35 @@ final String _kLocale = const Locale.fromSubtags(
   languageCode: 'zh',
   scriptCode: 'Hans',
 ).toLanguageTag();
-const String _kAppId = 'AP23021640379390003537';
-const String _kPartnerId = 'PAT23021640155283006022';
+const String _kAppId = 'AP23060624658111047829';
+const String _kPartnerId = 'PAT23060624364028044783';
 const String _kPrivateKey = '''
-MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUx2lA3XUEzkwC
-tSO3vPwh9iEI9ZZPz9YEoH+IoANC4npsNiRwniJVHRHwKxfmRk2bgexodHoikmXw
-DXvTOsbXIiCz+gGQjZF/uicY8jefddOf/n9rv0ogdSbdrqlFWVocjkjNIpyLVAdm
-eeCPtCyAt/x6G7NY8JODwtdZv2d0gIpeRdvnuZN6+sKIaYR4t+d9CQj7Va/U2Hkn
-SSEXReSsyhKJ7oBySEftkHoF/0K5PQxl1NPVZ9QQrj4z3ONVBr9YAG7k2SExtNIT
-EqO6xDjNt487bbWjgLmDlRgLAvS6fdNUpXCVMWWN+901diu5Ui3A+PsrIw5me7Sl
-9jx9hH1nAgMBAAECggEAdPehpEF3cmPOFoLapeWKRBkBN838cprvo4ubOIq0ha0Q
-mmqmk3N/gnLsW2lFzOCQuyWV+zk3nF6EjgnLw/F9yj0mgNiYylDChyyO+GnVmSRF
-UJABFXC6knIIMFjU85Sf57tlOQFxGYjimIpRJil8o2YCtO16Pv5Eu14/eGumpkwF
-mlE7SESpeU1XdzogPT6cTmYaNSTTCaSuciw2vJIaKOz5HT8sp/nFD0mFDXPwAXJo
-jpPC+XbcqMCTifMbAtcCB/9CJHTT56sq2Xo9mji6/6hvFPM4r5lUGJI3f78Je1wA
-sPULT3Wb+u5dnpaKzqNnp2xNwwFeKpm3hfW+XyzJQQKBgQDFP5CQ5jt2DpktDXiM
-8S5Fp0mZFMyRF15He9TuxWuIDfGhPDcg94KumW+G8vAl44XAkM2bnAbATiqtBuQY
-w3UXF8KLwUqJmSS1pJBkhjfHS6cA+5pCqsEiqfOmGyCxJqvH6vQ7/u6jDgAxNn5s
-31QLhc70yqydvTcC2FUnDEiwWQKBgQDBF/8ZEwWg8PfUTMP5a63+ixF+q7uKRHHT
-lz+a1Z1vB2NkofY0sc+6yqVUgMeeJktFEevYWEEwOL1XDQVTwDQqHTeJaHxny8N5
-M45vMwG3Ffi2fN5Ap+4EWQNTR/5cK3kvxybwZV2Xv24Lmy2tYE/JGdrraTEX0tNw
-y9WR6PrjvwKBgF1bCmcqMLZdjm3eVFIQzF+3H4RObcu2Da8zksI3uf846kXvo//8
-ZWORx1FNpg+oseNEJawimqdl15jxDAAUclStsCxJHagmTVOTQavyQnAXBEHY01f+
-TU7EtUbGzCBMNz11nIbQz81okPq52fhZcwPJHvyI+E3oAiNclGDY1YZxAoGAb6m7
-2Lk6WQ7gkoHuFq/hh8DOVi1jn5rjJFRj8Ns1Vr60CL7sjR6CnWeQ4mQyi89jWcb6
-Vzr6P7OgMtYRzZPp1qzcr/afcrrQCKf6521cwY7QLF/bexJhv1vmY2PPwWdWhn2p
-k/1aeWW3crjDWm7G1OnBwr8rJ7bAlYsar21GoSsCgYBBzdidyVt0CDCI74GTFY1Z
-TzA3EKCTHte6lTYK9wjxYqgXYMWCi3F3uHWa1nBfCzNdcozUVVYcJyKxILfyQx0P
-G+wKfH95Ax9CkEJe+i9H+dEBpmueXIctOXAB+gWhR1vC1EVH6BdRiwDBY3II7O13
-Eg3tE6geBvw5CuJnUgL/VA==
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0K2dIx85wUvHB
+1zY4kxJ5nqBSvatEmBFIajb6apA7YD4NeFna+0RCJENd1NcJn4m9+SQQc5GfzyE8
+ncCGWxwOaskHF3TKTph4xsJU1O1ocqsQl4I2zib+SE4r2c55jz/D44KX1i7f4bAh
+CMcVH8Lqs8GV9HvDTdKqnCmOS9V5zx74kzsuShp7uYLiLY39+zsQ4K1mJoiWIpvi
+cJTCCd/yAIJ6SwDYS1YwEW/yfj/jhEupswAxCiRcVQZUJCkqG8Yvql2bPxczelE3
+EAcH9cwLY2VM7BYjSo0DKdGsMH/nF/qDuYJg2NQ9dXzWBkaUsUK69FS8NGjwjOM1
+qbtlbtHBAgMBAAECggEAKmOH0lTIGh85p+x1Ykwf7aNHfxAGyoWok0wCEVqfAok7
+MDofkejJ/3G+s8XOrgHuC1chiAlYuqul2zgWQsYOzMmM8HExViO1tby1nfXWwVsx
+Kh8rUK+h9vOWCLUe4fS1AOZ3JDgNITldEfiZtjuZxVRzeE9kCug1Z1SEZmkrGZQf
+NGd9oIqnslPJA9SiFWVbw6K0tzdSdDaIvIHcg3t8Z8ffANjUsfWT8MlsnH+ZsxIU
+4TyiCQzu25p2aGxW1+HdzyiK5q668eIiANybqnuAfBjxZ4oRq/QLANKM5Y8sSYwe
+i8cqU8vfPbeY1JAllDChzTS5hqsgkt2Z7EUik5+ALQKBgQDi7HOtFdZ1WppQT2xo
+hWCpAiuHBnP1ke/1m+XVBB42+Titplhp731yvp2RtcMp+BrsHYcYn7GXSiTFOCSl
+Lh5++9ehG77Dlg8xuXW2AldV67VfjJ8oBk2O1PEAX3i2vR3dx8TNZFBCPJo9+S4K
+dGUsg0kS+ts5CgC8Fc7nh8T9JwKBgQDLQVLwxBZ3NMFNcXA1bQ60gjCFKTkL7Sc6
+QaabuXiSFq2E9MH3m63ldnGrgATQ1ySjWTVuGzNDMiTMU5a68+zYrTN6+rNrfwzr
+ik96fpW6lYlfHdVWA4Yu7cskvnaSeotJUI57MULN6dS2JtxZm3h3adnMmUZWvB/K
+DP4xvh3a1wKBgC31R4RBjPqdi+1B+Km+gZIZH2msU+XjVZ7/oO+gcuIdXW5F51gl
+KdoIYu80yb8BQaqaXFcPWK9UU9ghg8J0cba0GLrHXL5N8OvYLM/c74U2RLiCSWWY
+yTJpTBoQO+l+qcLWB7S1YU/Y6EAu7DUv16HJQQ54Adguf3GYVRwtMic3AoGBAKdf
+SHxJDLLm91LdWeg0wQo1ttzAoGBIzqezTg4oAbhTAlpc7qkGQoGVMm9mQRD0SRBW
+MqBTt7fav+Cd6J5UpTGcFqtrbHnVqn7/awlU2dlGsFNqDrYAuutEF6dPS/a9AJvD
+wUCCxR8pMWc5wvPrCZ1Txe0sPnbH/Wl1n5C4nH8LAoGATtJvCDPK2vfzGOmKDtz/
+DOhzCermETGqHzBLxUuGEgnextzfR39uUxPB5JZ9oxxeQuxDAecKx4ODARma7E4n
+VOkliUrecZ2az8l1qSWN1pkLay+7H9ALzhA+KiUDQxFNZB4nC+sPOvv9ixWMxhZb
+vUW2yX/XI//SDNCFwC0uDwY=
 ''';
 const String _kUserId = 'test_user';
 
@@ -104,8 +104,8 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
 
-    // Switch env, default to [FlutterVerifyblocEnv.prd]
-    _verifyblocFlutterPlugin.setEnv(VerifyblocEnv.dev);
+    // Switch env, default to [VerifyblocEnv.prd]
+    _verifyblocFlutterPlugin.setEnv(VerifyblocEnv.uat);
   }
 
   @override
