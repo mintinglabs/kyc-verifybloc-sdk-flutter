@@ -84,9 +84,9 @@ _verifyblocFlutterPlugin.startVerification(
 | personal  | 个人          |
 | corporate | 企业          |
 
-> 如果你想了解更多关于`认证类型`的信息，请查阅[VerifyBloc Document](https://www.google.com)
+> 如果你想了解更多关于`认证类型`的信息，请查阅[VerifyBloc简介](https://msy4ond8ae.sg.larksuite.com/docx/DKDNdg64toEYbyxbFmUlePvHg7d#PcvZdtPu8oYv5QxOmPulJ8ZFg6c)
 
 ## 了解更多
 
 - [API Documentation](https://pub.dev/documentation/verifybloc_flutter/latest/)
-- [VerifyBloc Documentation Website](https://www.google.com)
+- [VerifyBloc Integration Documentation](https://msy4ond8ae.sg.larksuite.com/docx/DKDNdg64toEYbyxbFmUlePvHg7d)
