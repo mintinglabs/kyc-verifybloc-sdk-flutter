@@ -1,3 +1,7 @@
+## 0.3.4
+
+* feat: Updates Android SDK to version 0.3.3 & iOS SDK to version 0.3.4
+
 ## 0.3.3
 
 * chore: Upgrade Android SDK to 0.3.2
