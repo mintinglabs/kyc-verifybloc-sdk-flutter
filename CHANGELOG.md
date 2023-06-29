@@ -1,3 +1,7 @@
+## 0.3.8
+
+* feat: Updates Android SDK to version 0.3.7 & iOS SDK to version 0.3.8
+
 ## 0.3.7
 
 * feat: Updates Android SDK to version 0.3.6 & iOS SDK to version 0.3.7
