@@ -1,3 +1,7 @@
+## 0.3.10
+
+* feat: Updates Android SDK to version 0.3.9
+
 ## 0.3.9
 
 * feat: Updates Android SDK to version 0.3.8
