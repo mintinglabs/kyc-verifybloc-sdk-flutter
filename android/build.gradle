@@ -46,5 +46,5 @@ android {
 }
 
 dependencies {
-    implementation 'io.github.mintinglabs:kyc-verifybloc-sdk-android:0.3.10'
+    implementation 'io.github.mintinglabs:kyc-verifybloc-sdk-android:0.3.11'
 }

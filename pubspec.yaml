@@ -1,7 +1,7 @@
 name: verifybloc_flutter
 description: A Flutter Plugin for integrating with VerifyBloc SDK on iOS & Android
 repository: https://github.com/mintinglabs/kyc-verifybloc-sdk-flutter
-version: 0.3.11
+version: 0.3.12
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
