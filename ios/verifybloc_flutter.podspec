@@ -15,7 +15,7 @@ A new Flutter project.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'VerifyBlocSDK', '~> 0.4.1'
+  s.dependency 'VerifyBlocSDK', '~> 0.4.2'
   s.platform = :ios, '12.0'
 
   s.static_framework = true

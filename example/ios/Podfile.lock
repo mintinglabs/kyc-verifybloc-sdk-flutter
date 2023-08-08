@@ -2,8 +2,8 @@ PODS:
   - Flutter (1.0.0)
   - verifybloc_flutter (0.0.1):
     - Flutter
-    - VerifyBlocSDK (~> 0.4.1)
-  - VerifyBlocSDK (0.4.1)
+    - VerifyBlocSDK (~> 0.4.2)
+  - VerifyBlocSDK (0.4.2)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
@@ -21,8 +21,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  verifybloc_flutter: 24fe8e3853a7f9caeb4aa236cbc7faf1e44a6556
-  VerifyBlocSDK: 5aaa84c30cb234a4cd4c106b87cbf67435cd0dd9
+  verifybloc_flutter: b7eb65eff8a448afce63b49644dc613e9573785d
+  VerifyBlocSDK: 20a43fd197c3aabc91e04a1bf671fc6e8460659c
 
 PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
 
