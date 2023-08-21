@@ -23,6 +23,7 @@ if (flutterVersionName == null) {
 
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
@@ -66,6 +67,13 @@ android {
             signingConfig signingConfigs.debug
             minifyEnabled true
         }
+    }
+
+    dataBinding {
+        enabled = true
+    }
+    viewBinding {
+        enabled = true
     }
 }
 
